@@ -48,4 +48,4 @@ O projeto foi desenvolvido usando as seguintes tecnologias:
 ## Links
 
 - https://bawdypokedex.surge.sh/
--
+
